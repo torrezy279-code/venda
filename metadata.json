@@ -1,0 +1,6 @@
+{
+  "name": "Edifício Grand Horizon - Venda de Apartamento",
+  "description": "Landing page exclusiva para venda de apartamento de alto padrão com 3 suítes, varanda gourmet e lazer completo. Manifeste seu interesse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
